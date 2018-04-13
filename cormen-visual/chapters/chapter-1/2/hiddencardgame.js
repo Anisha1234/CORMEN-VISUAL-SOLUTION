@@ -62,7 +62,7 @@ drawh(){
           this.matrixh1.push(this.imagearrayh[prob])
           this.checkrepeath[prob]= 1
           this.svg1h.append("svg:image")
-                      .attr("xlink:href", "../../.././image/unknown.jpeg")
+                      .attr("xlink:href", "../../.././image/unknown.png")
                       .attr("width", 115)
                       .attr("height",115)
                       .attr("x", i*115)
